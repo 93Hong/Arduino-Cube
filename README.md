@@ -21,8 +21,8 @@
 - When you place the cube on the table with the desired menu facing up, the vibration is detected and the order enters.
 - It communicates with the server via a Bluetooth sensor
 - Stores the information in the database by separating the table and the date.
-![](./img/1.jpg)
+![](./img/1.JPG)
 
 ## Kalman Filter
 - We used the Kalman filter algorithm to reduce the error between the vibration sensor and the gyro sensor to get accurate orders.
-![](./img/2.jpg)
+![](./img/2.JPG)
